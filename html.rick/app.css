@@ -1,0 +1,54 @@
+h1{
+    color :blueviolet
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h5{
+    color: yellowgreen;
+}
+
+.h21{
+    color: rgb(163, 10, 48);
+}
+
+.ricky{
+
+    text-align: left;
+    background-color: red;
+    border: solid rgb(43, 226, 134);
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.rick1{
+
+    text-align: right ;
+    border:solid rgb(179, 53, 14);
+    background-color: rgb(42, 62, 126);
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px
+  }
+
+.RED{
+    color: beige;
+    text-align: center;
+}
+
+
+  .biggie{
+    color: chartreuse;
+    text-align: center;
+}
+    
